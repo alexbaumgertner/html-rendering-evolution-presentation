@@ -1,3 +1,11 @@
+## The main goal — pixels on the screen
+
+> The Critical Rendering Path is the sequence of steps the browser goes through to convert the HTML, CSS, and JavaScript into pixels on the screen. Optimizing the critical render path improves render performance. The critical rendering path includes the Document Object Model (DOM), CSS Object Model (CSSOM), render tree and layout.
+
+>  The document object model is created as the HTML is parsed. The HTML may request JavaScript, which may, in turn, alter the DOM. The HTML includes or makes requests for styles, which in turn builds the CSS object model. The browser engine combines the two to create the Render Tree. Layout determines the size and location of everything on the page. Once layout is determined, pixels are painted to the screen.
+https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+
+
 ## HTML streaming
 
 ### Invention of HTML: document markup for CERN
