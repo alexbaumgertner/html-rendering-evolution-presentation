@@ -20,6 +20,10 @@ https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html
 
 Web server: streaming text (srtings)
 
+fisrt web server https://en.wikipedia.org/wiki/CERN_httpd
+
+CERN httpd (later also known as W3C httpd) is an early, now discontinued, web server (HTTP) daemon originally developed at CERN from 1990 onwards by Tim Berners-Lee, Ari Luotonen[2] and Henrik Frystyk Nielsen.[1] Implemented in C, it was the first web server software.
+
 Get data from HTML files on file system
 
 Filesystem HTML files => Server listens requests and reads files => TCP/IP/HTML => Client
