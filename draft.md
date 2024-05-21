@@ -40,6 +40,8 @@ Server => JSON => Client + HTML generation + node replacement
 ### DOM
 srting-based client side template enginges
 
+> DOM construction is incremental. The HTML response turns into tokens which turns into nodes which turn into the DOM Tree. A single DOM node starts with a startTag token and ends with an endTag token. Nodes contain all relevant information about the HTML element. The information is described using tokens. Nodes are connected into a DOM tree based on token hierarchy. If another set of startTag and endTag tokens come between a set of startTag and endTags, you have a node inside a node, which is how we define the hierarchy of the DOM tree. https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+
 ## JSON streaming
 gmail
 AJAX (X - XML, but :))
