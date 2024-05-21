@@ -26,13 +26,15 @@ Server => JSON => Client + HTML generation + node replacement
 ### DOM
 srting-based client side template enginges
 
-
 ## JSON streaming
 gmail
 AJAX (X - XML, but :))
 
 
 ### vDOM + reconciliation
+
+Server => JSON => Client + node reconciliation 
+
 Server => HTML => Client + Hydration
 Server => JSON => Client
 
@@ -40,3 +42,4 @@ direct update
 
 
 ## HTML streaming renaissance
+https://hotwired.dev
