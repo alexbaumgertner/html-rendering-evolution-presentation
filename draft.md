@@ -12,7 +12,13 @@ https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html
 
 Web server: streaming text (srtings)
 
-Server => HTML => Client
+Get data from HTML files on file system
+
+Filesystem HTML files => Server listens requests and reads files => TCP/IP/HTML => Client
+
+### Using Databases
+
+Database => Server listens requests and runs server-side language (perl/PHP/C/Java) => Template engine => HTML on server side streams to TCP/IP/HTML => Client
 
 ### Standartisations
 
