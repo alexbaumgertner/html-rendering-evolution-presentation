@@ -5,10 +5,22 @@
 >  The document object model is created as the HTML is parsed. The HTML may request JavaScript, which may, in turn, alter the DOM. The HTML includes or makes requests for styles, which in turn builds the CSS object model. The browser engine combines the two to create the Render Tree. Layout determines the size and location of everything on the page. Once layout is determined, pixels are painted to the screen.
 https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 
+## Store and access data
+1960s, navigational DBMS
+1970s, relational DBMS
+Late 1970s, SQL DBMS
+2000s, NoSQL and NewSQL
 
-## HTML streaming
+https://en.wikipedia.org/wiki/Database
+
+## HTML
 
 ### Invention of HTML: document markup for CERN
+
+https://en.wikipedia.org/wiki/Hypertext
+https://en.wikipedia.org/wiki/History_of_hypertext
+
+"The concept Borges described in 'The Garden of Forking Paths'—in several layers of the story, but most directly in the combination book and maze of Ts'ui Pen—is that of a novel that can be read in multiple ways, a hypertext novel. Borges described this in 1941, prior to the invention (or at least the public disclosure) of the electromagnetic digital computer. Borges also mentions how hypertext has three similarities of frued to a labyrinth in which each link brings the navigator to a set of new links, in an ever expanding maze. Not only did he invent the hypertext novel—Borges went on to describe a theory of the universe based upon the structure of such a novel."
 
 Tim Berners-Lee, CERN
 March 1989, May 1990
