@@ -5,7 +5,15 @@
 >  The document object model is created as the HTML is parsed. The HTML may request JavaScript, which may, in turn, alter the DOM. The HTML includes or makes requests for styles, which in turn builds the CSS object model. The browser engine combines the two to create the Render Tree. Layout determines the size and location of everything on the page. Once layout is determined, pixels are painted to the screen.
 https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 
+
 ## Store and access data
+Binary logic
+https://en.wikipedia.org/wiki/Boolean_algebra
+Why boolean was chosen
+
+### ASCII
+https://en.wikipedia.org/wiki/ASCII
+
 1960s, navigational DBMS
 1970s, relational DBMS
 Late 1970s, SQL DBMS
