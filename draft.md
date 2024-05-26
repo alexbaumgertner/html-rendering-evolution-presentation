@@ -38,6 +38,7 @@ First tags set: http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html
 https://www.w3.org/History/1989/proposal.html
 https://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html
 
+## web servers
 Web server: streaming text (srtings)
 
 fisrt web server https://en.wikipedia.org/wiki/CERN_httpd
@@ -47,6 +48,15 @@ CERN httpd (later also known as W3C httpd) is an early, now discontinued, web se
 Get data from HTML files on file system
 
 Filesystem HTML files => Server listens requests and reads files => TCP/IP/HTML => Client
+
+### rack
+https://en.wikipedia.org/wiki/Rack_(web_server_interface)
+
+### JSGI
+https://en.wikipedia.org/wiki/JSGI
+
+### WSGI
+https://en.wikipedia.org/wiki/JSGI
 
 ### Using Databases
 
