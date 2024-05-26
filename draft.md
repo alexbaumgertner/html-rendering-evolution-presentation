@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/JSGI
 ### WSGI
 https://en.wikipedia.org/wiki/JSGI
 
+### PSGI
+https://en.wikipedia.org/wiki/Plack_(software)#PSGI
+
 ### Using Databases
 
 Database => Server listens requests and runs server-side language (perl/PHP/C/Java) => Template engine => HTML on server side streams to TCP/IP/HTML => Client
