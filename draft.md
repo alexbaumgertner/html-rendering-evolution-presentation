@@ -93,6 +93,11 @@ Server => JSON => Client
 
 direct update
 
+### Meteor
+https://www.meteor.com/learn
+
+### trpc
+https://trpc.io/docs/concepts
 
 ## HTML streaming renaissance
 https://hotwired.dev
