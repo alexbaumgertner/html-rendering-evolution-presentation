@@ -14,12 +14,10 @@ Why boolean was chosen
 ### ASCII
 https://en.wikipedia.org/wiki/ASCII
 
-1960s, navigational DBMS
-1970s, relational DBMS
-Late 1970s, SQL DBMS
-2000s, NoSQL and NewSQL
 
-https://en.wikipedia.org/wiki/Database
+### Stream (computing)
+In computer science, a stream is a sequence of potentially unlimited data elements made available over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches. Streams are processed differently from batch data.
+https://en.wikipedia.org/wiki/Stream_(computing)
 
 ## HTML
 
@@ -62,7 +60,12 @@ https://en.wikipedia.org/wiki/JSGI
 https://en.wikipedia.org/wiki/Plack_(software)#PSGI
 
 ### Using Databases
+1960s, navigational DBMS
+1970s, relational DBMS
+Late 1970s, SQL DBMS
+2000s, NoSQL and NewSQL
 
+https://en.wikipedia.org/wiki/Database
 Database => Server listens requests and runs server-side language (perl/PHP/C/Java) => Template engine => HTML on server side streams to TCP/IP/HTML => Client
 
 ### Standartisations
