@@ -1,3 +1,9 @@
+## Intro
+What IT professionals do? Do heavy math? Calculations? Information transfering and manipulations?
+
+What is the information by the way?
+
+
 ## The main goal — pixels on the screen
 
 > The Critical Rendering Path is the sequence of steps the browser goes through to convert the HTML, CSS, and JavaScript into pixels on the screen. Optimizing the critical render path improves render performance. The critical rendering path includes the Document Object Model (DOM), CSS Object Model (CSSOM), render tree and layout.
